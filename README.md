@@ -1,11 +1,10 @@
 
 ## Table of Content
-> * [Single Object Segmentation- Segmentation of the Fetal Head in ultrasound images- Pytorch](# SingleObjectSegmentation-SegmentationoftheFetalHeadinultrasoundimages-Pytorch)
+> * [Single Object Segmentation- Segmentation of the Fetal Head in ultrasound images- Pytorch](#SingleObjectSegmentation-SegmentationoftheFetalHeadinultrasoundimages- Pytorch)
 >   * [About the Project](#AbouttheProject)
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
 >   * [Installation](#Installation)
->   * [Examples](#Example)
 
 # Single Object Segmentation- Segmentation of the Fetal Head in ultrasound images- Pytorch
 ## About the Project
