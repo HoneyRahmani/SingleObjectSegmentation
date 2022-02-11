@@ -31,3 +31,7 @@ Find dataset in https:/ / zenodo. org/ record/ 1322001#. XcX1jk9KhhE
 
 ![s1](https://user-images.githubusercontent.com/75105778/153672646-b2861baf-a99a-4d53-bb3e-d95dff02ca34.png)
 
+![s2](https://user-images.githubusercontent.com/75105778/153673413-4829a662-f856-4da6-b547-3a08197ca764.png)
+
+![s3](https://user-images.githubusercontent.com/75105778/153673432-0fc435e8-5518-41b6-afaa-67ebec8fa129.png)
+
